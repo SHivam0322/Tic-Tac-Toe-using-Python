@@ -17,7 +17,7 @@ def play_game():
    check_if_gameover()
    flip_player()
  if winner == "X" or winner == "O":
-     print("Victory !! " + winner + " won.")
+     print("Heyy Victory !! " + winner + " won.")
  elif winner == None:
      print("Tie.")
 
